@@ -1,0 +1,2 @@
+# Bond-
+A finance app designed for young adults that simplifies both personal and shared money management. Böndi lets users track expenses, set goals, and split costs fairly through approval-based shared pods. The app focuses on transparency, automation, and motivation to build healthy financial habits. 
